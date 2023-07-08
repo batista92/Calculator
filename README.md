@@ -35,4 +35,4 @@ Siga as instruções apresentadas no console para fazer seus calculos.
 ## Créditos
 Esta aplicação foi desenvolvida seguindo o tutorial da Microsoft que esta neste link abaixo:
 
-https://www.thecsharpacademy.com/project/11
+https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console?view=vs-2022
